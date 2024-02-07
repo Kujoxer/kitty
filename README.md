@@ -1,2 +1,2 @@
-# kitty
-Configuration, Installation, Tutorial
+# kitty 
+Конфигурация Kitty
